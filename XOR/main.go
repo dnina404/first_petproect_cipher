@@ -54,5 +54,3 @@ func getUserInput(msg string) string {
 		return strings.TrimRight(result, "\n")
 	}
 }
-
-/*http test*/
